@@ -1,0 +1,9 @@
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\bin\Release\TableMerger.exe.config
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\bin\Release\TableMerger.exe
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\bin\Release\TableMerger.pdb
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\obj\Release\TableMerger.Form1.resources
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\obj\Release\TableMerger.Properties.Resources.resources
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\obj\Release\TableMerger.csproj.GenerateResource.Cache
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\obj\Release\TableMerger.exe
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\obj\Release\TableMerger.pdb
+C:\Users\Darkman\Documents\Visual Studio 2012\Projects\TableMerger\TableMerger\obj\Release\TableMerger.csprojResolveAssemblyReference.cache

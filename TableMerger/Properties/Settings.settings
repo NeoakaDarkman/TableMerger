@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TableMerger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EssenPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Book1.csv</Value>
+    </Setting>
+    <Setting Name="RathausPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Book2.csv</Value>
+    </Setting>
+    <Setting Name="SchwarzwaldPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Book3.csv</Value>
+    </Setting>
+    <Setting Name="FinalPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TableOut.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
